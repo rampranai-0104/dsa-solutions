@@ -46,9 +46,9 @@ Explanation: Intervals [1,4] and [4,7] are considered overlapping.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 6 ms (beats 78.60%)  
-**Memory:** 22.7 MB (beats 47.59%)  
-**Submitted:** 2026-10-05T15:41:16.288Z  
+**Runtime:** 3 ms (beats 90.36%)  
+**Memory:** 22.5 MB (beats 61.25%)  
+**Submitted:** 2026-10-05T15:41:25.100Z  
 
 ```py
 class Solution:
