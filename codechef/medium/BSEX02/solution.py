@@ -5,11 +5,10 @@ def main():
         n=int(input())
         p=1
         ans=0
-        while n>0:
-            n=n-p
+        while n>=p:
+            n-=p
+            ans+=1
             p+=1
-            if p>n:
-                ans=p-1
         print(ans)
 
 if __name__ == "__main__":
