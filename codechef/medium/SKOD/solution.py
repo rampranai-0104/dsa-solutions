@@ -6,11 +6,7 @@ for _ in range(t):
     m=a[0]
     c=0
     for i in a:
-        if i<m:
+        c+=i 
+        if i <m:
             m=i
-    for i in a:
-        if i!=m:
-            c+=i 
-        else:
-            c+=0
-    print(c)
+    print(c-m)
