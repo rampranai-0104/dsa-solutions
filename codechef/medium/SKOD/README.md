@@ -52,7 +52,7 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T14:54:26.210Z  
+**Submitted:** 2026-10-05T14:58:02.717Z  
 
 ```py
 # cook your dish here
@@ -63,14 +63,10 @@ for _ in range(t):
     m=a[0]
     c=0
     for i in a:
-        if i<m:
+        c+=i 
+        if i <m:
             m=i
-    for i in a:
-        if i!=m:
-            c+=i 
-        else:
-            c+=0
-    print(c)
+    print(c-m)
 ```
 
 ---
