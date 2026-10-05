@@ -52,21 +52,11 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-05T14:58:12.956Z  
+**Submitted:** 2026-10-05T14:52:05.559Z  
 
 ```py
 # cook your dish here
-t=int(input())
-for _ in range(t):
-    n=int(input())
-    a=list(map(int,input().split()))
-    m=a[0]
-    c=0
-    for i in a:
-        c+=i 
-        if i <m:
-            m=i
-    print(c-m)
+
 ```
 
 ---
