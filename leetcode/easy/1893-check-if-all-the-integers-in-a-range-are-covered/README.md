@@ -44,9 +44,9 @@ Explanation: 21 is not covered by any range.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.4 MB  
-**Submitted:** 2026-10-12T15:20:32.335Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 19.4 MB (beats 30.93%)  
+**Submitted:** 2026-10-12T15:20:37.565Z  
 
 ```py
 class Solution:
