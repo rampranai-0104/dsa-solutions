@@ -72,7 +72,7 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-12T14:42:47.795Z  
+**Submitted:** 2026-10-12T14:50:16.072Z  
 
 ```py
 # cook your dish here
@@ -80,6 +80,32 @@ t=int(input())
 for _ in range(n):
     m,x,y=map(int,input().split())
     a=list(map(int,input().split()))
+    r=x*y  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 ```
 
