@@ -61,7 +61,7 @@ Test case $1$: Inviting the groups with $1$ and $2$ people gives $3$ people and 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-21T14:55:16.790Z  
+**Submitted:** 2026-10-21T14:54:28.748Z  
 
 ```py
 # cook your dish here
