@@ -46,9 +46,9 @@ The loose-bound subarrays are `[1]`, `[1]`, and `[1, 1]`. The minimum value in t
 ## Solution
 
 **Language:** Python  
-**Runtime:** 220 ms  
-**Memory:** 31.6 MB  
-**Submitted:** 2026-10-24T15:04:11.007Z  
+**Runtime:** 222 ms  
+**Memory:** 31.7 MB  
+**Submitted:** 2026-10-24T15:04:16.541Z  
 
 ```py
 class Solution:
