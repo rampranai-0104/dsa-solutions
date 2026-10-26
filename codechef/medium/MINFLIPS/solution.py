@@ -10,5 +10,5 @@ while t:
         ans=c//2
     else:
         ans=-1 
-    print(ans)
+    print(abs(ans))
     t-=1
