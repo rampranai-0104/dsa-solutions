@@ -64,7 +64,7 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-26T15:22:01.328Z  
+**Submitted:** 2026-10-26T15:20:00.814Z  
 
 ```py
 # cook your dish here
@@ -76,7 +76,7 @@ while t:
     for i in a:
         c+=i 
     if c%2==0:
-        ans=abs(c//2)
+        ans=c//2
     else:
         ans=-1 
     print(ans)
