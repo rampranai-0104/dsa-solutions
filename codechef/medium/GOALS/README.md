@@ -54,14 +54,14 @@ YES
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-26T15:13:42.562Z  
+**Submitted:** 2026-10-26T15:13:52.033Z  
 
 ```py
 # cook your dish here
 t=int(input())
 while t:
     x,y=map(int,input().split())
-    if x==y and x>1:
+    if x==y and x>=1:
         print("YES")
     else:
         print("NO")
