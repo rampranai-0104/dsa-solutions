@@ -7,8 +7,8 @@ while t:
     for i in a:
         c+=i 
     if c%2==0:
-        ans=c//2
+        ans=abs(c//2)
     else:
         ans=-1 
-    print(abs(ans))
+    print(ans)
     t-=1
