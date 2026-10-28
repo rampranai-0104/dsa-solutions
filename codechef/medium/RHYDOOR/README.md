@@ -66,7 +66,7 @@ BBBBAAAAABBBBBBB
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-28T14:56:40.806Z  
+**Submitted:** 2026-10-28T14:57:21.911Z  
 
 ```py
 # cook your dish here
@@ -81,7 +81,7 @@ for _ in range(t):
             c+=1 
             if c==3:
                 do+=1 
-                c=1
+                c=0
         else:
             c=1 
     print(do)
