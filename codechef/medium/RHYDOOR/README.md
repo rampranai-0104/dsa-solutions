@@ -66,7 +66,7 @@ BBBBAAAAABBBBBBB
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-28T14:52:38.495Z  
+**Submitted:** 2026-10-28T14:49:31.796Z  
 
 ```py
 # cook your dish here
@@ -74,7 +74,10 @@ t=int(input())
 for _ in range(t):
     n=int(input())
     s=input()
-    for i in range()
+    ca=0
+    cb=0
+    s=set()
+    for 
 ```
 
 ---
