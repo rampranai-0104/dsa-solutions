@@ -66,11 +66,15 @@ BBBBAAAAABBBBBBB
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-28T14:39:21.499Z  
+**Submitted:** 2026-10-28T14:40:26.492Z  
 
 ```py
 # cook your dish here
-
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    s=input()
+    
 ```
 
 ---
