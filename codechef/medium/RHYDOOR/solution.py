@@ -10,7 +10,7 @@ for _ in range(t):
             c+=1 
             if c==3:
                 do+=1 
-                c=1
+                c=0
         else:
             c=1 
     print(do)
