@@ -1,3 +1,4 @@
 # cook your dish here
 s=input()
-a=""
+a=s[::2]
+print(a)
