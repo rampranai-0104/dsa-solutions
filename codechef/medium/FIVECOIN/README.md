@@ -78,10 +78,11 @@ Use the $5$-rupee coin and three $1$-rupee coins.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-04T14:44:04.323Z  
+**Submitted:** 2026-11-04T14:44:53.311Z  
 
 ```py
 # cook your dish here
+n=int(input())
 
 ```
 
